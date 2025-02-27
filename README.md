@@ -1,0 +1,2 @@
+# fuzzy_pid_simulink
+模糊pid温控系统simulink仿真
